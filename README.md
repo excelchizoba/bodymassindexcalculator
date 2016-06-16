@@ -18,9 +18,18 @@ This app will tell you that your BMI is normal or you are underweight or overwei
 Download Information
 --------------------
 File Size : 
-File Name : 
+File Name : Body MAss Index Calculator
 
 
 Screenshots
 ------------------
+
+
+
+-- CONTACT --
+
+Current maintainer:
+* Chizoba Augustina Ude
+* chizoba_ude@yahoo.com
+* 08034237569
 
